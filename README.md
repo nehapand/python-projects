@@ -2,7 +2,7 @@
 
 This is a collection of small projects which are awesome and might help a developer or add a little fun in life. This is an open repository ❤️.I would love to see people contributing to it.
 
-Do give a star ⭐ if you like this project.
+Do give a star ⭐ if you like this project. Thank you
 
 
 ---
